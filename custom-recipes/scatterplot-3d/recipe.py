@@ -11,7 +11,7 @@ import os
 import io
 
 
-### READ PLUGIN INPUTS ###
+### READ PLUGIN INPUTS ####
 
 # Retrieve input and output dataset names
 input_dataset_name = get_input_names_for_role('input_dataset')[0]
